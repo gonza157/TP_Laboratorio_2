@@ -1,0 +1,11 @@
+C:\Users\gonza\source\repos\Entidades\Entidades\bin\Debug\netcoreapp2.1\Entidades.deps.json
+C:\Users\gonza\source\repos\Entidades\Entidades\bin\Debug\netcoreapp2.1\Entidades.runtimeconfig.json
+C:\Users\gonza\source\repos\Entidades\Entidades\bin\Debug\netcoreapp2.1\Entidades.runtimeconfig.dev.json
+C:\Users\gonza\source\repos\Entidades\Entidades\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\gonza\source\repos\Entidades\Entidades\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\Users\gonza\source\repos\Entidades\Entidades\obj\Debug\netcoreapp2.1\Entidades.csprojAssemblyReference.cache
+C:\Users\gonza\source\repos\Entidades\Entidades\obj\Debug\netcoreapp2.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Entidades\Entidades\obj\Debug\netcoreapp2.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Entidades\Entidades\obj\Debug\netcoreapp2.1\Entidades.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Entidades\Entidades\obj\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\gonza\source\repos\Entidades\Entidades\obj\Debug\netcoreapp2.1\Entidades.pdb
