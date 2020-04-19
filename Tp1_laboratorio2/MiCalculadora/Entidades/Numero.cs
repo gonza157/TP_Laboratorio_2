@@ -10,9 +10,11 @@ namespace Entidades
     {
         private double numero = 0;
 
+        /// <summary>
+        /// propiedad que setea un numero en el atributo validandolo primero
+        /// </summary>
         private string SetNumero
         {
-
             set
             {
                 double num;
