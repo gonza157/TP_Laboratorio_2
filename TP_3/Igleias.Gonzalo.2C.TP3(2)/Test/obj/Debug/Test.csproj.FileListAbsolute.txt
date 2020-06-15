@@ -1,0 +1,10 @@
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\bin\Debug\Test.exe.config
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\bin\Debug\Test.exe
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\bin\Debug\Test.pdb
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\bin\Debug\EntidadesAbstractas.dll
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\obj\Debug\Test.exe
+C:\Users\gonza\Desktop\IglesiasAlonzo.Gonzalo.2C.TP3\Test\obj\Debug\Test.pdb
