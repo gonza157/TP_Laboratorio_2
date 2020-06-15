@@ -28,12 +28,11 @@ namespace EntidadesAbstractas
             StreamWriter srt = null;
             try
             {
-                if (File.Exists(archivo))
-                {
+                //if (File.Exists(archivo)
                     srt = new StreamWriter(archivo);
                     srt.Write(datos);
                     flag = true;
-                }
+                
 
             }
             catch (Exception)
