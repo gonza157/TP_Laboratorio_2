@@ -60,7 +60,14 @@ namespace Entidades
         {
             return !(p1==p2);
         }
-
+        /// <summary>
+        /// hará que el paquete cambie de estado
+        ///a. Colocar una demora de 4 segundos.
+        ///b.Pasar al siguiente estado.
+        ///c.Informar el estado a través de InformarEstado. EventArgs no tendrá ningún dato extra.
+        ///d.Repetir las acciones desde el punto A hasta que el estado sea Entregado.
+        ///e.Finalmente guardar los datos del paquete en la base de datos
+        /// </summary>
         public void MockCicloDeVida()
         {
             Thread.Sleep(4000);
@@ -71,13 +78,20 @@ namespace Entidades
             this.InformaEstado.Invoke(this, EventArgs.Empty);
             PaqueteDAO.Insertar(this);
         }
-
+        /// <summary>
+        /// Muestra la info de un paquete , implementa la interfaz IMostrar
+        /// </summary>
+        /// <param name="elemento"></param>
+        /// <returns>string con los datos </returns>
         public string MostrarDatos(IMostar<Paquete> elemento)
         {
             Paquete p = (Paquete)elemento;
             return string.Format("{0} para {1}\n", p.TrackingID, p.DireccionEntrega);
         }
-
+        /// <summary>
+        /// reutiliza el metodo mostrar datos 
+        /// </summary>
+        /// <returns> string con los datos </returns>
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();

@@ -12,7 +12,30 @@ namespace Entidades
     {
         static SqlCommand comando;
         static SqlConnection conexion;
+        /// <summary>
+        /// Constructoy static
+        /// </summary>
+        static PaqueteDAO()
+        {
+            
+            try
+            {
+                conexion = new SqlConnection(@"Data Source = DESKTOP-CCO3RRS\SQLEXPRESS; Database = correo-sp-2017; Trusted_Connection = true;");
+                comando = new SqlCommand();
+                comando.CommandType = System.Data.CommandType.Text;
+                comando.Connection = conexion;
 
+            }
+            catch (Exception e)
+            {
+                throw new Exception("crear la coneccion", e);
+            }
+        }
+        /// <summary>
+        /// Permite insertar en la base un paquete
+        /// </summary>
+        /// <param name="p"></param>
+        /// <returns>bool si pudo o no insertar en la base</returns>
         public static bool Insertar(Paquete p)
         {
             try
@@ -38,21 +61,6 @@ namespace Entidades
             return true;
         }
 
-        static PaqueteDAO()
-        {
-            //cambiar el Source
-            try
-            {
-                conexion = new SqlConnection(@"Data Source = DESKTOP-CCO3RRS\SQLEXPRESS; Database = correo-sp-2017; Trusted_Connection = true;");
-                comando = new SqlCommand();
-                comando.CommandType = System.Data.CommandType.Text;
-                comando.Connection = conexion;
-
-            }
-            catch (Exception e)
-            {
-                throw new Exception("crear la coneccion", e);
-            }
-        }
+        
     }
 }

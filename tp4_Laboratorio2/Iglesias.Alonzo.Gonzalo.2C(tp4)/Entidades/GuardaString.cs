@@ -9,6 +9,13 @@ namespace Entidades
 {
     public static class GuardaString
     {
+        /// <summary>
+        /// Metodo de extension de string que guardará en un archivo de texto en el escritorio de la máquina.
+        /// Si el archivo existe, agregará información en él.
+        /// </summary>
+        /// <param name="texto"></param>
+        /// <param name="archivo"></param>
+        /// <returns>bool si pudo o no hacerlo</returns>
         public static bool Guardar(this string texto, string archivo)
         {
 

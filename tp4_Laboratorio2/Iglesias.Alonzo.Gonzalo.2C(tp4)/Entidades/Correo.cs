@@ -17,13 +17,20 @@ namespace Entidades
             get { return this.paquetes; }
             set { this.paquetes = value; }
         }
-
+        /// <summary>
+        /// constructor, se inicializan las listas
+        /// </summary>
         public Correo()
         {
             this.mockPaquetes = new List<Thread>();
             this.paquetes = new List<Paquete>();
         }
-
+        /// <summary>
+        /// Suma un paquete al correo si no existe ya el mismo paquete con el mismo trackingID
+        /// </summary>
+        /// <param name="c"></param>
+        /// <param name="p"></param>
+        /// <returns>el correo con el paquete nuevo si pudo hacerlo</returns> 
         public static Correo operator +(Correo c, Paquete p)
         {
             bool repetido = false;
@@ -49,7 +56,9 @@ namespace Entidades
             }
             return c;
         }
-
+        /// <summary>
+        /// se cirran los hilos activos
+        /// </summary>
         public void FinEntregas()
         {
             foreach (Thread a in mockPaquetes)
@@ -61,6 +70,11 @@ namespace Entidades
 
             }
         }
+        /// <summary>
+        /// Muestra los datos de los paquetes del correo
+        /// </summary>
+        /// <param name="elementos"></param>
+        /// <returns>string con los datos</returns>  
         public string MostrarDatos(IMostar<List<Paquete>> elementos)
         {
             StringBuilder sb = new StringBuilder();
