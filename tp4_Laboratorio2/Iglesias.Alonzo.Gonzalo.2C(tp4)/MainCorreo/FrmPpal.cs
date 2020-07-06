@@ -23,6 +23,7 @@ namespace MainCorreo
         private void FrmPpal_Load(object sender, EventArgs e)
         {
             this.correo = new Correo();
+            this.lstEstadoEntregado.ContextMenuStrip = this.cmsListas;
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)

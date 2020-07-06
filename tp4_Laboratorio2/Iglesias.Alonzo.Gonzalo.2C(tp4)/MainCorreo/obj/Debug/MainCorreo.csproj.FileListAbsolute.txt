@@ -24,3 +24,16 @@ C:\Users\gonza\Desktop\tp4\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\
 C:\Users\gonza\Desktop\tp4\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
 C:\Users\gonza\Desktop\tp4\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.exe
 C:\Users\gonza\Desktop\tp4\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\bin\Debug\MainCorreo.exe
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\bin\Debug\Entidades.dll
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\bin\Debug\Entidades.pdb
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.exe
+C:\TP_Laboratorio_2\tp4_Laboratorio2\Iglesias.Alonzo.Gonzalo.2C(tp4)\MainCorreo\obj\Debug\MainCorreo.pdb
