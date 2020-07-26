@@ -1,0 +1,16 @@
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Gonzalo.Iglesias.exe.config
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Gonzalo.Iglesias.exe
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Gonzalo.Iglesias.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Archivos.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Clases Abstractas.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Clases Instanciablas.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Exepciones.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Archivos.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Clases Abstractas.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Clases Instanciablas.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\bin\Debug\Exepciones.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\obj\Debug\Gonzalo.Iglesias.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\obj\Debug\Gonzalo.Iglesias.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\obj\Debug\Gonzalo.Iglesias.csproj.CopyComplete
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\obj\Debug\Gonzalo.Iglesias.exe
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Gonzalo.Iglesias\obj\Debug\Gonzalo.Iglesias.pdb

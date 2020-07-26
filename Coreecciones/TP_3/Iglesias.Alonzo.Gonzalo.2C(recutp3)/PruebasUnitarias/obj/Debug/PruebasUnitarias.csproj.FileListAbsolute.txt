@@ -1,0 +1,50 @@
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\PruebasUnitarias.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\PruebasUnitarias.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Clases Abstractas.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Clases Instanciablas.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Exepciones.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Archivos.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Clases Abstractas.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Clases Instanciablas.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Exepciones.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Archivos.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CopyComplete
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.pdb
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\PruebasUnitarias.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\PruebasUnitarias.pdb
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Clases Abstractas.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Clases Instanciablas.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Exepciones.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Archivos.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Clases Abstractas.pdb
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Clases Instanciablas.pdb
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Exepciones.pdb
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\bin\Debug\Archivos.pdb
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CopyComplete
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.dll
+C:\Users\gonza\Desktop\tps final\TP_3\Iglesias.Alonzo.Gonzalo.2C(recutp3)\PruebasUnitarias\obj\Debug\PruebasUnitarias.pdb

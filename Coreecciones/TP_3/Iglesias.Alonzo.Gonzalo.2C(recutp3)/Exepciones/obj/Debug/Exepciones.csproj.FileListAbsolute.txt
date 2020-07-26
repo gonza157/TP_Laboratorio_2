@@ -1,0 +1,11 @@
+C:\Users\gonza\source\repos\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\gonza\source\repos\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\gonza\source\repos\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\obj\Debug\Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\gonza\source\repos\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\obj\Debug\Exepciones.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\obj\Debug\Exepciones.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\obj\Debug\Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\gonza\Desktop\copiaaa\Iglesias.Alonzo.Gonzalo.2C(recutp3)\Exepciones\obj\Debug\Exepciones.pdb
